@@ -1,0 +1,20 @@
+<java version="16.0.2" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="com.company.PersistenceLayer.Student">
+    <void property="name">
+     <string>Artemiy</string>
+    </void>
+    <void property="surname">
+     <string>Tev</string>
+    </void>
+    <void property="individualNumber">
+     <integer>95100240</integer>
+    </void>
+    <void property="groupNumber">
+     <integer>951007</integer>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
